@@ -53,7 +53,7 @@ ALFRH est une application web de gestion des ressources humaines permettant de g
 ![ListAbsence](public/images/ListAbsence.png)
 
 ## Auteurs
-- [Carl randranto]
+- Carl randranto
 
 ## Licence
 Ce projet est sous licence MIT.
