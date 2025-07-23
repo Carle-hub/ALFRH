@@ -39,7 +39,7 @@ ALFRH est une application web de gestion des ressources humaines permettant de g
 
 ### Gestion des employés
 ![AddEmployés](public/images/AddEmplyer.png)
-![searchEmployés](public/images/Chearch employer.png)
+![searchEmployés](public/images/Chearchemployer.png)
 *Liste des employés avec options d'ajout, modification et suppression.*
 
 ### Demande de congé
